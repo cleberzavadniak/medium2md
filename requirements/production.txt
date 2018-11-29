@@ -1,0 +1,2 @@
+bs4
+newspaper3k
