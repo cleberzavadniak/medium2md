@@ -2,6 +2,10 @@
 
 Download a Medium article and prints a Markdown version of it.
 
-# Running
+# Install
 
-    python3 -m medium2md <Medium-article-URL>
+    pip install git+https://github.com/cleberzavadniak/medium2md.git
+
+# Run
+
+    medium2md <Medium-article-URL>
